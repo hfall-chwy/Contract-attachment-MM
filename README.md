@@ -1,4 +1,4 @@
-# Contract-attachment---MM
+# Contract-attachment-MM
 Chewy Contract Attachment Automation
 This Python script automates the process of attaching Excel and PDF files to Chewy contracts through the Chewy MarketMedium API. The script is designed to streamline the attachment of contracts specified in an Excel file to corresponding deals in the Chewy system.
 Configuration
